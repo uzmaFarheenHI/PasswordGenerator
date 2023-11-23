@@ -1,6 +1,6 @@
 import './App.css'
 // my designing part got over its time of doing something logical thing lets start..
-import {useEffect, useState} from 'react'
+import {useState} from 'react'
 
 function App() {
 const [sliderInput,setSliderInput]=useState(4);// got the vsaue and set this with respect to the length adnd all lets do some other things over here
